@@ -1,6 +1,12 @@
 .testComp {
   background: linear-gradient(90deg, gray 1%, whitesmoke 100%);
+  width: 100%;
+  background-color: red;
+ 
 }
 span a {
   color: blue;
 }
+.testComp span{
+  font-size:2rem;
+} 

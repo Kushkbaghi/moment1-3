@@ -1,4 +1,75 @@
 ﻿/* Start page */
-h1 {
+.container h1 {
+  font-size: 4rem;
   width: 100%;
+  padding: 2%;
+}
+i {
+  font-size: 2.5rem;
+  width: 100%;
+}
+/* CONVERTOR PAGE */
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  width: 90%;
+  position: relative;
+  box-shadow: 0px 0px 25px -10px black;
+  margin-top: 5%;
+  padding: 2%;
+}
+lable {
+  width: 100%;
+  text-align: left;
+  font-size: 1.5rem;
+  padding: 1%;
+}
+input {
+  width: 100%;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+}
+.btn {
+  width: 100%;
+  display: flex;
+  justify-content: left;
+}
+button {
+  outline: none;
+  max-width: 20rem;
+  margin-top: 1%;
+  background-color: blue;
+  color: white;
+  float: left;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+.titleCon {
+  font-size: 4rem;
+}
+h3 {
+  text-align: left;
+  width: 100%;
+  padding: 1% 0%;
+  font-size: 2rem;
+}
+/* DATA PAGE */
+table {
+  width: 100%;
+  box-shadow: 0px 0px 20px -10px rgba(0, 0, 0, 0);
+}
+
+th {
+  padding: 2frem;
+  border-bottom: 0.1rem black solid;
+  border-radius: 0 !important;
+}
+th,
+td {
+  text-align: left;
+  font-size: 2rem;
+  padding-left: 2%;
 }

@@ -41,154 +41,35 @@
         }
       },
       {
-        "HashCode": 950310278,
+        "HashCode": 360277310,
         "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Convertor",
+        "Name": "moment1_3.Shared.NavMenu",
         "AssemblyName": "moment1-3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Convertor"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Convertor"
+          "Common.TypeName": "moment1_3.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1803834442,
+        "HashCode": -1266672401,
         "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Convertor",
+        "Name": "moment1_3.Shared.NavMenu",
         "AssemblyName": "moment1-3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "moment1_3.Pages.Convertor"
+            "TagName": "moment1_3.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Convertor",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -299646075,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.FetchData",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1989562384,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.FetchData",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1994903934,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Index",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 2139607382,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Index",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1517256181,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.testcomponent",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "testcomponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.testcomponent"
-        }
-      },
-      {
-        "HashCode": 695964048,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.testcomponent",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Shared.testcomponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.testcomponent",
+          "Common.TypeName": "moment1_3.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,35 +170,154 @@
         }
       },
       {
-        "HashCode": 360277310,
+        "HashCode": 1316493569,
         "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.NavMenu",
+        "Name": "moment1_3.Shared.TestComponent",
         "AssemblyName": "moment1-3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "TestComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.NavMenu"
+          "Common.TypeName": "moment1_3.Shared.TestComponent"
         }
       },
       {
-        "HashCode": -1266672401,
+        "HashCode": 2105326811,
         "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.NavMenu",
+        "Name": "moment1_3.Shared.TestComponent",
         "AssemblyName": "moment1-3",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "moment1_3.Shared.NavMenu"
+            "TagName": "moment1_3.Shared.TestComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.NavMenu",
+          "Common.TypeName": "moment1_3.Shared.TestComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1994903934,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Index",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 2139607382,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Index",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -299646075,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.FetchData",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1989562384,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.FetchData",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 950310278,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Convertor",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Convertor"
+        }
+      },
+      {
+        "HashCode": 1803834442,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Convertor",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Convertor",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13654,8 +13654,8 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\Admin\\Desktop\\moment1-3\\Shared\\testcomponent.razor",
-      "TargetPath": "Shared\\testcomponent.razor",
+      "FilePath": "c:\\Users\\Admin\\Desktop\\moment1-3\\Shared\\TestComponent.razor",
+      "TargetPath": "Shared\\TestComponent.razor",
       "FileKind": "component"
     },
     {

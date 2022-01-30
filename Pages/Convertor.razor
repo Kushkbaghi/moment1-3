@@ -1,20 +1,24 @@
 @page "/convertor"
 @* Form to get input value *@
-<pageTitle>Kovertera enheter</pageTitle>
+<pageTitle class="titleCon">Kovertera enheter</pageTitle>
 @* Convert meter to feet *@
-<div class="form container">
+<div class="form">
     <lable for="meter">Meter </lable>
     <input type="number" class="form-control" @bind="meter" />
-    <button class="btn btn-primary" @onclick="ConvertFeet">Omvandla</button>
+    <div class="btn">
+        <button class="btn btn-primary" @onclick="ConvertFeet">Omvandla</button>
+    </div>
     <br />
     <h3>@meter meter = @feet feet</h3>
 </div>
 
 @* Convert km/h to mil/h to feet *@
-<div class="form container">
+<div class="form ">
     <lable for="km">km/h </lable>
     <input type="number" class="form-control" @bind="km" />
-    <button class="btn btn-primary" @onclick="ConvertMil">Omvandla</button>
+    <div class="btn">
+        <button class="btn btn-primary" @onclick="ConvertMil">Omvandla</button>
+    </div>
     <br />
     <h3>@km km/h = @mile mil/h</h3>
 </div>
@@ -35,7 +39,7 @@
     @* Convert km/h to mil/h *@
     private void ConvertMil()
     {
-        mile= 0.62 * km;
+        mile = 0.62 * km;
     }
 
 }
