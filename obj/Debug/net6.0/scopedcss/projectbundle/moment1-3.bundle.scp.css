@@ -12,6 +12,7 @@ header[b-qho8tta5zd] {
   background: linear-gradient(90deg, white 1%, whitesmoke 100%);
   box-shadow: 0px 0px 15px -10px black;
 }
+/* Centralize center */
 main[b-qho8tta5zd]{
   width: 100%;
   max-width: 96rem;
@@ -24,18 +25,29 @@ main[b-qho8tta5zd]{
 /* /Shared/NavMenu.razor.rz.scp.css */
 nav[b-n3wkrwqw05] {
   width: 100%;
-  max-width: 20rem;
+  max-width: 96rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 1rem 0%;
 }
-nav a[b-n3wkrwqw05] {
-  max-width: 96rem;
+nav strong[b-n3wkrwqw05] {
+  max-width: 20rem;
+  font-size: 2rem;
+}
+.navbar[b-n3wkrwqw05] {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  justify-content: center;
+  place-items: center center;
+}
+.navbar a[b-n3wkrwqw05] {
+  width: 100%;
   text-decoration: none;
   color: black;
-  font-size:1.4rem;
-  padding:1rem 0%;
+  padding-right: 1%;
 }
-nav a:hover[b-n3wkrwqw05] {
+.navbar a:hover[b-n3wkrwqw05] {
   color: gray;
 }

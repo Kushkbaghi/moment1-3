@@ -1,17 +1,28 @@
 nav[b-n3wkrwqw05] {
   width: 100%;
-  max-width: 20rem;
+  max-width: 96rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 1rem 0%;
 }
-nav a[b-n3wkrwqw05] {
-  max-width: 96rem;
+nav strong[b-n3wkrwqw05] {
+  max-width: 20rem;
+  font-size: 2rem;
+}
+.navbar[b-n3wkrwqw05] {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  justify-content: center;
+  place-items: center center;
+}
+.navbar a[b-n3wkrwqw05] {
+  width: 100%;
   text-decoration: none;
   color: black;
-  font-size:1.4rem;
-  padding:1rem 0%;
+  padding-right: 1%;
 }
-nav a:hover[b-n3wkrwqw05] {
+.navbar a:hover[b-n3wkrwqw05] {
   color: gray;
 }

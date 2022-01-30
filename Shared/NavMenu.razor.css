@@ -1,17 +1,28 @@
 nav {
   width: 100%;
-  max-width: 20rem;
+  max-width: 96rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 1rem 0%;
 }
-nav a {
-  max-width: 96rem;
+nav strong {
+  max-width: 20rem;
+  font-size: 2rem;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  justify-content: center;
+  place-items: center center;
+}
+.navbar a {
+  width: 100%;
   text-decoration: none;
   color: black;
-  font-size:1.4rem;
-  padding:1rem 0%;
+  padding-right: 1%;
 }
-nav a:hover {
+.navbar a:hover {
   color: gray;
 }
