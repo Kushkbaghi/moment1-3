@@ -193,6 +193,39 @@
         }
       },
       {
+        "HashCode": 360277310,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Shared.NavMenu",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1266672401,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Shared.NavMenu",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 137195894,
         "Kind": "Components.Component",
         "Name": "moment1_3.Shared.MainLayout",
@@ -285,39 +318,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "moment1_3.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 360277310,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.NavMenu",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1266672401,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.NavMenu",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
