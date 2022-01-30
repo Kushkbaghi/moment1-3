@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oeyho99fcLCHNcG0JPnfsv4MaKuHDP5kwrxLVJEa31E=",
+  "Hash": "X7WTApY/BAdb7bTjk82irnB5ToULdSrCte0NYSCxS0Q=",
   "Source": "moment1-3",
   "BasePath": "/",
   "Mode": "Root",
@@ -6883,6 +6883,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\moment1-3\\wwwroot\\css\\config.css",
+      "SourceId": "moment1-3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\moment1-3\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/config.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\config.css"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\moment1-3\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
