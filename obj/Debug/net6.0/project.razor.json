@@ -41,6 +41,105 @@
         }
       },
       {
+        "HashCode": 950310278,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Convertor",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Convertor"
+        }
+      },
+      {
+        "HashCode": 1803834442,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Convertor",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.Convertor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Convertor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -299646075,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.FetchData",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1989562384,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.FetchData",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1994903934,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Index",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 2139607382,
+        "Kind": "Components.Component",
+        "Name": "moment1_3.Pages.Index",
+        "AssemblyName": "moment1-3",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "moment1_3.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "moment1_3.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 360277310,
         "Kind": "Components.Component",
         "Name": "moment1_3.Shared.NavMenu",
@@ -166,158 +265,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "moment1_3.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1316493569,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.TestComponent",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TestComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.TestComponent"
-        }
-      },
-      {
-        "HashCode": 2105326811,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Shared.TestComponent",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Shared.TestComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Shared.TestComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1994903934,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Index",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 2139607382,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Index",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -299646075,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.FetchData",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1989562384,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.FetchData",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 950310278,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Convertor",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Convertor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Convertor"
-        }
-      },
-      {
-        "HashCode": 1803834442,
-        "Kind": "Components.Component",
-        "Name": "moment1_3.Pages.Convertor",
-        "AssemblyName": "moment1-3",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "moment1_3.Pages.Convertor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "moment1_3.Pages.Convertor",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
